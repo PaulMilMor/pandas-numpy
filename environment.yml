@@ -1,0 +1,7 @@
+name: pandas-numpy
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+prefix: /home/paulmilmor/anaconda3/envs/pandas-numpy
